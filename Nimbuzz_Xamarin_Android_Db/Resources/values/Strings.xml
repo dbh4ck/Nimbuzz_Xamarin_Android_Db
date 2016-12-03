@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Nimbuzz Xamarin by Db</string>
+    <string name="about">About App</string>
+    <string name="botid">Logged As:</string>
+    <string name="btn_login">Sign In</string>
+    <string name="dbinfo2">Coded By DB~@NC</string>
+    <string name="dbinfo3">Email: dbh4ck@gmail.com</string>
+    <string name="dbinfo4">Blog: http://dbh4ck.blogspot.in</string>
+    <string name="exit">Exit</string>
+    <string name="hello_db">Nimbuzz Xamarin Android(C#) Coded by db~@NC</string>
+    <string name="lbl_dbh4ck">Visit My Blog: http://dbh4ck.blogspot.in</string>
+    <string name="lbl_dbmail">Report Bugs: dbh4ck@gmail.com</string>
+    <string name="lbl_pwd">Password:</string>
+    <string name="lbl_username">Username:</string>
+    <string name="login">Login with your Nimbuzz ID:</string>
+    <string name="ok">OK</string>
+    <string name="others">Others</string>
+    <string name="coderdb">Coded by Db~@NC</string>
+    <string name="txt_pwd" />
+    <string name="txt_username" />
+	<string name="logtxt">Logged In</string>
+	<string name="info">Info</string>
+	<string name="logout">Logout</string>
+    
+</resources>

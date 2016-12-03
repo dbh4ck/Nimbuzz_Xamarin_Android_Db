@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{DEEC073D-F179-4806-9751-47E57014FFFB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\DB\Documents\Nimbuzz_Xamarin_Android_Db\Nimbuzz_Xamarin_Android_Db\MainActivity.cs" line="121" column="18" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Nimbuzz_Xamarin_Android_Db\LoggedActivity.cs">
+    <Files>
+      <File FileName="Nimbuzz_Xamarin_Android_Db\MainActivity.cs" Line="163" Column="5" />
+      <File FileName="Nimbuzz_Xamarin_Android_Db\Resources\values\Strings.xml" Line="24" Column="30" />
+      <File FileName="Nimbuzz_Xamarin_Android_Db\Resources\values\dimens.xml" Line="8" Column="45" />
+      <File FileName="Nimbuzz_Xamarin_Android_Db\Resources\values\colors.xml" Line="11" Column="13" />
+      <File FileName="Nimbuzz_Xamarin_Android_Db\LoggedActivity.cs" Line="43" Column="49" />
+      <File FileName="..\..\..\..\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets" Line="2387" Column="2" />
+      <File FileName="Nimbuzz_Xamarin_Android_Db\Resources\menu\menuoption.xml" Line="1" Column="1" />
+      <File FileName="Nimbuzz_Xamarin_Android_Db\Resources\menu\loggedmenuoption.xml" Line="9" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Nimbuzz__Xamarin__Android__Db AndroidDesignerPreferredDevice="Nexus 4" AndroidDesignerPreferredTheme="Theme.Holo.Light.DarkActionBar" PreferredExecutionTarget="Android.db" />
+</Properties>
